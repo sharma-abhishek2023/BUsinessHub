@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="ownerStatusBar">#ab000e</color>
+    <color name="ownerAppBar">#e53635</color>
+    <color name="ownerAccent">#ff6d60</color>
+    <color name="employeeStatusBar">#005662</color>
+    <color name="employeeAppBar">#00838f</color>
+    <color name="employeeAccent">#4fb3bf</color>
+</resources>

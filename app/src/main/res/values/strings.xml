@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BusinessPocket</string>
+    <string name="welcome">Welcome</string>
+    <string name="continueButton">Continue</string>
+    <string name="get_started">Get Started</string>
+    <string name="signout">SignOut</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
